@@ -1,0 +1,515 @@
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"errors":{"token":{"name":"ValidatorError","message":"Path `token` is required.","properties":{"message":"Path `token` is required.","type":"required","path":"token"},"kind":"required","path":"token"}},"_message":"user validation failed","level":"error","message":"user validation failed: token: Path `token` is required. user validation failed: token: Path `token` is required.","stack":"ValidationError: user validation failed: token: Path `token` is required.\n    at model.Document.invalidate (/Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2870:32)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2661:17\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/schematype.js:1267:9\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"\"expiresIn\" should be a number of seconds or string representing a timespan \"expiresIn\" should be a number of seconds or string representing a timespan","stack":"Error: \"expiresIn\" should be a number of seconds or string representing a timespan\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/jsonwebtoken/sign.js:52:15\n    at Array.forEach (<anonymous>)\n    at validate (/Users/alaatharwat/Documents/node/monitorapp/node_modules/jsonwebtoken/sign.js:43:6)\n    at validateOptions (/Users/alaatharwat/Documents/node/monitorapp/node_modules/jsonwebtoken/sign.js:58:10)\n    at Object.module.exports [as sign] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/jsonwebtoken/sign.js:141:5)\n    at model.userSchema.methods.generateToken (/Users/alaatharwat/Documents/node/monitorapp/models/userModel.js:35:21)\n    at exports.createUser (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:23:22)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"errors":{"token":{"name":"ValidatorError","message":"Path `token` is required.","properties":{"message":"Path `token` is required.","type":"required","path":"token"},"kind":"required","path":"token"}},"_message":"user validation failed","level":"error","message":"user validation failed: token: Path `token` is required. user validation failed: token: Path `token` is required.","stack":"ValidationError: user validation failed: token: Path `token` is required.\n    at model.Document.invalidate (/Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2870:32)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2661:17\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/schematype.js:1267:9\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"}
+{"message":"connected to db ","level":"info"}
+{"errors":{"token":{"name":"ValidatorError","message":"Path `token` is required.","properties":{"message":"Path `token` is required.","type":"required","path":"token"},"kind":"required","path":"token"}},"_message":"user validation failed","level":"error","message":"user validation failed: token: Path `token` is required. user validation failed: token: Path `token` is required.","stack":"ValidationError: user validation failed: token: Path `token` is required.\n    at model.Document.invalidate (/Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2870:32)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2661:17\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/schematype.js:1267:9\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"}
+{"message":"connected to db ","level":"info"}
+{"errors":{"token":{"name":"ValidatorError","message":"Path `token` is required.","properties":{"message":"Path `token` is required.","type":"required","path":"token"},"kind":"required","path":"token"}},"_message":"user validation failed","level":"error","message":"user validation failed: token: Path `token` is required. user validation failed: token: Path `token` is required.","stack":"ValidationError: user validation failed: token: Path `token` is required.\n    at model.Document.invalidate (/Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2870:32)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2661:17\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/schematype.js:1267:9\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"}
+{"message":"connected to db ","level":"info"}
+{"errors":{"token":{"name":"ValidatorError","message":"Path `token` is required.","properties":{"message":"Path `token` is required.","type":"required","path":"token"},"kind":"required","path":"token"}},"_message":"user validation failed","level":"error","message":"user validation failed: token: Path `token` is required. user validation failed: token: Path `token` is required.","stack":"ValidationError: user validation failed: token: Path `token` is required.\n    at model.Document.invalidate (/Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2870:32)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/document.js:2661:17\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/mongoose/lib/schematype.js:1267:9\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":500,"level":"error","stack":"Error\n    at exports.createUser (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:26:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":500,"level":"error","stack":"Error\n    at exports.createUser (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:26:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":500,"level":"error","stack":"Error\n    at exports.createUser (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:26:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"TypeError: Class constructor ErrorHandler cannot be invoked without 'new' TypeError: Class constructor ErrorHandler cannot be invoked without 'new'","level":"error","stack":"Error: TypeError: Class constructor ErrorHandler cannot be invoked without 'new'\n    at exports.emailConfirmation (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:58:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"TypeError: Class constructor ErrorHandler cannot be invoked without 'new' TypeError: Class constructor ErrorHandler cannot be invoked without 'new'","level":"error","stack":"Error: TypeError: Class constructor ErrorHandler cannot be invoked without 'new'\n    at exports.emailConfirmation (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:58:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"TypeError: Class constructor ErrorHandler cannot be invoked without 'new' TypeError: Class constructor ErrorHandler cannot be invoked without 'new'","level":"error","stack":"Error: TypeError: Class constructor ErrorHandler cannot be invoked without 'new'\n    at exports.emailConfirmation (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:53:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Error: [object Object] Error: [object Object]","level":"error","stack":"Error: Error: [object Object]\n    at exports.emailConfirmation (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:53:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Error: invalid Link Error: invalid Link","level":"error","stack":"Error: Error: invalid Link\n    at exports.emailConfirmation (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:53:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Error Error","level":"error","stack":"Error: Error\n    at exports.emailConfirmation (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:53:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Error Error","level":"error","stack":"Error: Error\n    at exports.emailConfirmation (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:53:11)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"ValidationError: \"email\" is required ValidationError: \"email\" is required","level":"error","stack":"Error: ValidationError: \"email\" is required\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:10:20)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"[object Object] [object Object]","level":"error","stack":"Error: [object Object]\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:10:20)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"\"email\" is required \"email\" is required","level":"error","stack":"Error: \"email\" is required\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:10:20)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"statusCode":400,"message":"\"email\" is required \"email\" is required","level":"error","stack":"Error: \"email\" is required\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:10:20)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"statusCode":400,"message":"\"email\" is required \"email\" is required","level":"error","stack":"Error: \"email\" is required\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:10:20)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"statusCode":400,"message":"\"password\" is required \"password\" is required","level":"error","stack":"Error: \"password\" is required\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:10:20)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"statusCode":400,"message":"wrong Email wrong Email","level":"error","stack":"Error: wrong Email\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:14:21)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"wrong Email wrong Email","level":"error","stack":"Error: wrong Email\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:14:21)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"statusCode":400,"message":"wrong password wrong password","level":"error","stack":"Error: wrong password\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:17:31)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"User is not defined User is not defined","stack":"ReferenceError: User is not defined\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"expose":true,"statusCode":400,"status":400,"body":"{\n    \"url\": \"google.com\",\n    \"name\": \"ay7aga\",\n    \"interval\": \"10\",\n    \"protocol\": \"http\"\n    // \"httpOptions\": {\n    //    \"path\": \"/users\",\n    //  \"method\": \"post\"\n    // }\n}","type":"entity.parse.failed","level":"error","message":"Unexpected token / in JSON at position 98 Unexpected token / in JSON at position 98","stack":"SyntaxError: Unexpected token / in JSON at position 98\n    at JSON.parse (<anonymous>)\n    at parse (/Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:224:16)\n    at done (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"connected to db ","level":"info"}
+{"expose":true,"statusCode":400,"status":400,"body":"{\n    \"url\": \"google.com\",\n    \"name\": \"ay7aga\",\n    \"interval\": \"10\",\n    \"protocol\": \"http\"\n    // \"httpOptions\": {\n    //    \"path\": \"/users\",\n    //  \"method\": \"post\"\n    // }\n}","type":"entity.parse.failed","level":"error","message":"Unexpected token / in JSON at position 98 Unexpected token / in JSON at position 98","stack":"SyntaxError: Unexpected token / in JSON at position 98\n    at JSON.parse (<anonymous>)\n    at parse (/Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:224:16)\n    at done (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"expose":true,"statusCode":400,"status":400,"body":"{\n    \"url\": \"google\\\\.com\",\n    \"name\": \"ay7aga\",\n    \"interval\": \"10\",\n    \"protocol\": \"http\"\n    // \"httpOptions\": {\n    //    \"path\": \"/users\",\n    //  \"method\": \"post\"\n    // }\n}","type":"entity.parse.failed","level":"error","message":"Unexpected token / in JSON at position 100 Unexpected token / in JSON at position 100","stack":"SyntaxError: Unexpected token / in JSON at position 100\n    at JSON.parse (<anonymous>)\n    at parse (/Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:224:16)\n    at done (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"expose":true,"statusCode":400,"status":400,"body":"{\n    \"url\": \"google.com\",\n    \"name\": \"ay7aga\",\n    \"interval\": \"10\",\n    \"protocol\": \"http\"\n    // \"httpOptions\": {\n    //    \"path\": \"/users\",\n    //  \"method\": \"post\"\n    // }\n}","type":"entity.parse.failed","level":"error","message":"Unexpected token / in JSON at position 98 Unexpected token / in JSON at position 98","stack":"SyntaxError: Unexpected token / in JSON at position 98\n    at JSON.parse (<anonymous>)\n    at parse (/Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:224:16)\n    at done (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:16)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:11)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:11)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check is not a constructor Check is not a constructor","stack":"TypeError: Check is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:10:11)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check.findOne is not a function Check.findOne is not a function","stack":"TypeError: Check.findOne is not a function\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:9:27)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check.findOne is not a function Check.findOne is not a function","stack":"TypeError: Check.findOne is not a function\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:9:27)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Check.findOne is not a function Check.findOne is not a function","stack":"TypeError: Check.findOne is not a function\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:9:27)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"options is not defined options is not defined","stack":"ReferenceError: options is not defined\n    at Object.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/utils/myMonitor.js:3:31)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:14:21)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"connect","address":"127.0.0.1","level":"error","message":"connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63008) connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63008)","stack":"Error: connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63008)\n    at internalConnect (net.js:923:16)\n    at defaultTriggerAsyncIdScope (internal/async_hooks.js:435:18)\n    at GetAddrInfoReqWrap.emitLookup [as callback] (net.js:1066:9)\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:71:8)"}
+{"message":"connected to db ","level":"info"}
+{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"connect","address":"127.0.0.1","level":"error","message":"connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63020) connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63020)","stack":"Error: connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63020)\n    at internalConnect (net.js:923:16)\n    at defaultTriggerAsyncIdScope (internal/async_hooks.js:435:18)\n    at GetAddrInfoReqWrap.emitLookup [as callback] (net.js:1066:9)\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:71:8)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"connect","address":"127.0.0.1","level":"error","message":"connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63124) connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63124)","stack":"Error: connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63124)\n    at internalConnect (net.js:923:16)\n    at defaultTriggerAsyncIdScope (internal/async_hooks.js:435:18)\n    at GetAddrInfoReqWrap.emitLookup [as callback] (net.js:1066:9)\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:71:8)"}
+{"message":"connected to db ","level":"info"}
+{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"connect","address":"127.0.0.1","level":"error","message":"connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63132) connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63132)","stack":"Error: connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63132)\n    at internalConnect (net.js:923:16)\n    at defaultTriggerAsyncIdScope (internal/async_hooks.js:435:18)\n    at GetAddrInfoReqWrap.emitLookup [as callback] (net.js:1066:9)\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:71:8)"}
+{"message":"connected to db ","level":"info"}
+{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"connect","address":"127.0.0.1","level":"error","message":"connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63141) connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63141)","stack":"Error: connect EADDRNOTAVAIL 127.0.0.1 - Local (0.0.0.0:63141)\n    at internalConnect (net.js:923:16)\n    at defaultTriggerAsyncIdScope (internal/async_hooks.js:435:18)\n    at GetAddrInfoReqWrap.emitLookup [as callback] (net.js:1066:9)\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:71:8)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":401,"message":"Access Denied! Access Denied!","level":"error","stack":"Error: Access Denied!\n    at auth (/Users/alaatharwat/Documents/node/monitorapp/middleware/authMW.js:10:21)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"statusCode":401,"message":"invalid token invalid token","level":"error","stack":"Error: invalid token\n    at auth (/Users/alaatharwat/Documents/node/monitorapp/middleware/authMW.js:21:11)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"ErrorHandling is not a constructor ErrorHandling is not a constructor","stack":"TypeError: ErrorHandling is not a constructor\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:12:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"ErrorHandling is not defined ErrorHandling is not defined","stack":"ReferenceError: ErrorHandling is not defined\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:12:14)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:12:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:12:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"statusCode":400,"message":"wrong Email wrong Email","level":"error","stack":"Error: wrong Email\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:14:21)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"statusCode":400,"message":"\"username\" is required \"username\" is required","level":"error","stack":"Error: \"username\" is required\n    at exports.createUser (/Users/alaatharwat/Documents/node/monitorapp/controllers/userController.js:11:21)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)"}
+{"statusCode":400,"message":"wrong password wrong password","level":"error","stack":"Error: wrong password\n    at exports.auth (/Users/alaatharwat/Documents/node/monitorapp/controllers/authController.js:17:31)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:12:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:17:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:17:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Notification.setNotificationStrategy is not a function Notification.setNotificationStrategy is not a function","stack":"TypeError: Notification.setNotificationStrategy is not a function\n    at Monitor.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/middleware/MonitorURLs/monitor.js:40:20)\n    at Monitor.emit (events.js:375:28)\n    at Monitor.respond (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:366:10)\n    at IncomingMessage.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:320:14)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Notification.setNotificationStrategy is not a function Notification.setNotificationStrategy is not a function","stack":"TypeError: Notification.setNotificationStrategy is not a function\n    at Monitor.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/middleware/MonitorURLs/monitor.js:40:20)\n    at Monitor.emit (events.js:375:28)\n    at Monitor.respond (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:366:10)\n    at IncomingMessage.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:320:14)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"subject is not defined subject is not defined","stack":"ReferenceError: subject is not defined\n    at EmailAlert.sendNotification (/Users/alaatharwat/Documents/node/monitorapp/alertStrategy/emailAlert.js:10:41)\n    at Notification.sendNotification (/Users/alaatharwat/Documents/node/monitorapp/alertStrategy/Notification.js:11:42)\n    at Monitor.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/middleware/MonitorURLs/monitor.js:38:18)\n    at Monitor.emit (events.js:375:28)\n    at Monitor.respond (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:366:10)\n    at IncomingMessage.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:320:14)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:17:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Cannot access 'EmailAlert' before initialization Cannot access 'EmailAlert' before initialization","stack":"ReferenceError: Cannot access 'EmailAlert' before initialization\n    at /Users/alaatharwat/Documents/node/monitorapp/businessLogic/monitorURLs/monitor.js:37:11\n    at Array.forEach (<anonymous>)\n    at Object.exports.monitorURLs (/Users/alaatharwat/Documents/node/monitorapp/businessLogic/monitorURLs/monitor.js:15:10)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Cannot read property 'sendNotification' of undefined Cannot read property 'sendNotification' of undefined","stack":"TypeError: Cannot read property 'sendNotification' of undefined\n    at Monitor.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/businessLogic/monitorURLs/monitor.js:51:18)\n    at Monitor.emit (events.js:375:28)\n    at Monitor.respond (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:366:10)\n    at IncomingMessage.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:320:14)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Cannot read property 'sendNotification' of undefined Cannot read property 'sendNotification' of undefined","stack":"TypeError: Cannot read property 'sendNotification' of undefined\n    at Monitor.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/businessLogic/monitorURLs/monitor.js:44:18)\n    at Monitor.emit (events.js:375:28)\n    at Monitor.respond (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:366:10)\n    at IncomingMessage.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:320:14)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Cannot read property 'webhook' of undefined Cannot read property 'webhook' of undefined","stack":"TypeError: Cannot read property 'webhook' of undefined\n    at WebHookNotification.sendNotification (/Users/alaatharwat/Documents/node/monitorapp/businessLogic/alertStrategy/webhookNotification.js:9:31)\n    at Notification.sendNotification (/Users/alaatharwat/Documents/node/monitorapp/businessLogic/alertStrategy/Notification.js:11:42)\n    at Monitor.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/businessLogic/monitorURLs/monitor.js:44:20)\n    at Monitor.emit (events.js:375:28)\n    at Monitor.respond (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:366:10)\n    at IncomingMessage.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:320:14)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"EmailAlert.sendNotification is not a function EmailAlert.sendNotification is not a function","stack":"TypeError: EmailAlert.sendNotification is not a function\n    at Monitor.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/businessLogic/monitorURLs/monitor.js:43:20)\n    at Monitor.emit (events.js:375:28)\n    at Monitor.respond (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:366:10)\n    at IncomingMessage.<anonymous> (/Users/alaatharwat/Documents/node/monitorapp/node_modules/ping-monitor/lib/monitor.js:320:14)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"expose":true,"statusCode":400,"status":400,"body":"{\n    \"title\": \"sssas\"\n}\n\n  // \"website\": \"https://github.com/\",\n    // \"protocol\": \"http\",\n    // \"interval\": \"1\",\n    // \"port\":\"\",\n    // \"threshold\":\"\",\n    // \"user\": \"612b6b499a62823501af5581\",\n    // \"isStopped\": true","type":"entity.parse.failed","level":"error","message":"Unexpected token / in JSON at position 28 Unexpected token / in JSON at position 28","stack":"SyntaxError: Unexpected token / in JSON at position 28\n    at JSON.parse (<anonymous>)\n    at parse (/Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:224:16)\n    at done (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/alaatharwat/Documents/node/monitorapp/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"statusCode":401,"message":"Access Denied! Access Denied!","level":"error","stack":"Error: Access Denied!\n    at auth (/Users/alaatharwat/Documents/node/monitorapp/middleware/authMW.js:10:21)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:317:13)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:284:7"}
+{"statusCode":401,"message":"Access Denied! Access Denied!","level":"error","stack":"Error: Access Denied!\n    at auth (/Users/alaatharwat/Documents/node/monitorapp/middleware/authMW.js:10:21)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:317:13)\n    at /Users/alaatharwat/Documents/node/monitorapp/node_modules/express/lib/router/index.js:284:7"}
+{"level":"error","message":"Cannot read property 'checkName' of null Cannot read property 'checkName' of null","stack":"TypeError: Cannot read property 'checkName' of null\n    at exports.deleteCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:79:33)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"level":"error","message":"Cannot read property 'checkName' of null Cannot read property 'checkName' of null","stack":"TypeError: Cannot read property 'checkName' of null\n    at exports.deleteCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:80:33)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"connected to db ","level":"info"}
+{"message":"connected to db ","level":"info"}
+{"statusCode":400,"message":"Already exists!! Already exists!!","level":"error","stack":"Error: Already exists!!\n    at exports.createCheck (/Users/alaatharwat/Documents/node/monitorapp/controllers/checkController.js:20:20)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
